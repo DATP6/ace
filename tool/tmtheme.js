@@ -270,6 +270,7 @@ function normalizeStylesheet(rules) {
 var themes = {
     //"chrome": "Chrome DevTools",
     "clouds": "Clouds",
+    "crisp": "Crisp",
     "clouds_midnight": "Clouds Midnight",
     "cobalt": "Cobalt",
     //"crimson_editor": "Crimson Editor",
