@@ -1,1 +1,1 @@
-node Makefile.dryice.js -m --target ../../lib/ace
+node Makefile.ccs.js -m --target ../../lib/ace
