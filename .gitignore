@@ -26,3 +26,6 @@ deps/
 dist
 
 lib/ace
+
+# Ignore generated parser files
+/lib/ace/mode/ccs
