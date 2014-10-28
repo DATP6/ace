@@ -103,7 +103,9 @@ color: #000000;
 }
 
 .ace-crisp .ace_comment {
-  color: #BCC8BA
+  color: #778076;
+  font-style: italic;
+  
 }
 
 .ace-crisp .ace_entity.ace_name.ace_tag,
