@@ -5,6 +5,10 @@
   color: #333;
 }
 
+.ace_gutter-cell {
+  padding-left: 13px;
+}
+
 .ace-crisp .ace_print-margin {
   width: 1px;
   background: #e8e8e8
@@ -109,4 +113,10 @@ color: #000000;
 .ace-crisp .ace_entity.ace_name.ace_tag,
 .ace-crisp .ace_entity.ace_other.ace_attribute-name {
   color: #606060
+}
+
+.ace_gutter-cell.ace_error {
+  color: #fff;
+  background-image: none;
+  background-color: #d9534f;
 }
