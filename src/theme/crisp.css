@@ -20,11 +20,14 @@
 }
 
 .ace-crisp .ace_constant.ace_character,
-.ace-crisp .ace_constant.ace_other,
 .ace-crisp .ace_cursor,
 .ace-crisp .ace_variable.ace_language {
   font-weight: bold;
   color: #000000
+}
+
+.ace-crisp .ace_constant.ace_other {
+    text-decoration: overline;
 }
 
 .ace-crisp .ace_marker-layer .ace_selection {
