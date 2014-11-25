@@ -197,7 +197,7 @@ function workers(path) {
 }
 
 function modeList() {
-    return ["ccs"];
+    return ["ccs", "hml"];
     // var result = jsFileList("lib/ace/mode", /_highlight_rules|_test|_worker|xml_util|_outdent|behaviour|completions/);
     // console.log(result);
     // return result;
