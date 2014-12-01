@@ -29,3 +29,7 @@ lib/ace
 
 # Ignore generated parser files
 /lib/ace/mode/ccs
+/lib/ace/snippets/ccs.js
+/lib/ace/snippets/ccs.snippets
+/lib/ace/snippets/hml.js
+/lib/ace/snippets/hml.snippets
