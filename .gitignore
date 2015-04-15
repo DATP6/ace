@@ -33,6 +33,5 @@ lib/ace
 /lib/ace/snippets/ccs.snippets
 /lib/ace/snippets/hml.js
 /lib/ace/snippets/hml.snippets
-/lib/ace/mode/tccs
 /lib/ace/snippets/tccs.js
 /lib/ace/snippets/tccs.snippets

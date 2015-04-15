@@ -34,6 +34,10 @@
     text-decoration: overline;
 }
 
+.ace-crisp .ace_delay {
+    color: #0000b6;
+}
+
 .ace-crisp .ace_marker-layer .ace_selection {
   background: #BDD5FC
 }
