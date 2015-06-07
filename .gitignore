@@ -35,3 +35,5 @@ lib/ace
 /lib/ace/snippets/hml.snippets
 /lib/ace/snippets/tccs.js
 /lib/ace/snippets/tccs.snippets
+/lib/ace/snippets/thml.js
+/lib/ace/snippets/thml.snippets
