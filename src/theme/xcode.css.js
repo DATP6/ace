@@ -1,4 +1,4 @@
-.ace-xcode .ace_gutter {
+module.exports = `.ace-xcode .ace_gutter {
   background: #FFFFFF;
   color: rgb(128,128,128)
 }

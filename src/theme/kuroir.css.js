@@ -1,4 +1,4 @@
-.ace-kuroir .ace_gutter {
+module.exports = `.ace-kuroir .ace_gutter {
   background: #E8E9E8;
   color: rgb(143,144,143)
 }
@@ -134,3 +134,4 @@
 .ace-kuroir .ace_markup.ace_list {
   color: #8F5B26
 }
+`;
